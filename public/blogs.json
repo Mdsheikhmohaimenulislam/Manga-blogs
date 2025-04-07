@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "bio": "Masashi Kishimoto is a renowned Japanese manga artist and writer, best known for creating the hit series Naruto. His work has inspired millions and shaped modern shonen manga.",
+    "manga_cover_img": "https://i.ibb.co.com/7djrGwFj/photo.webp",
+    "hashtag": ["naruto", "manga", "shonen"],
+    "writer_name": "Masashi Kishimoto",
+    "writer_img": "https://i.ibb.co.com/5gGcwXvD/images.jpg",
+    "reading_time": "24",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "bio": "Eiichiro Oda is a legendary Japanese manga artist, best known as the creator of One Piece, one of the best-selling and most influential manga series of all time.",
+    "manga_cover_img": "https://i.ibb.co.com/Xx9tRWBd/Gk-R5ga-b-UAEE5-Q5.jpg",
+    "hashtag": ["onepiece", "pirates", "adventure"],
+    "writer_name": "Eiichiro Oda",
+    "writer_img": "https://i.ibb.co.com/XZRkbkX2/eiichiro-oda-4.webp",
+    "reading_time": "30",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan",
+    "bio": "Hajime Isayama is a Japanese manga artist best known for creating Attack on Titan, a dark, gripping series that gained global acclaim for its intense story and unique world.",
+    "manga_cover_img": "https://i.ibb.co.com/YC8gLQn/images-1.jpg",
+    "hashtag": ["attackontitan", "titan", "action"],
+    "writer_name": "Hajime Isayama",
+    "writer_img": "https://i.ibb.co.com/J0nX3c4/download.jpg",
+    "reading_time": "28",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 4,
+    "title": "Demon Slayer",
+    "bio": "Koyoharu Gotouge is a Japanese manga artist best known for creating Demon Slayer: Kimetsu no Yaiba, a massively popular series praised for its art, emotion, and storytelling.",
+    "manga_cover_img": "https://i.ibb.co.com/WNwXQZX1/download-1.jpg",
+    "hashtag": ["demonslayer", "kimetsunoyaiba", "action"],
+    "writer_name": "Koyoharu Gotouge",
+    "writer_img": "https://i.ibb.co.com/VWSXVr5T/download-2.jpg",
+    "reading_time": "26",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 5,
+    "title": "My Hero Academia",
+    "bio": "Kōhei Horikoshi is a Japanese manga artist known for My Hero Academia, a superhero-themed manga blending classic shonen elements with modern society and emotional depth, earning worldwide popularity.",
+    "manga_cover_img": "https://i.ibb.co.com/SwK8ctvG/download-3.jpg",
+    "hashtag": ["myheroacademia", "superheroes", "shonen"],
+    "writer_name": "Kōhei Horikoshi",
+    "writer_img": "https://i.ibb.co.com/7JSjgxrB/K-hei-Horikoshi.webp",
+    "reading_time": "27",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 6,
+    "title": "Dragon Ball Z",
+    "bio": "Akira Toriyama is a legendary manga artist, best known for creating Dragon Ball. His unique art style and storytelling helped define action manga and influenced generations of artists worldwide.",
+    "manga_cover_img": "https://i.ibb.co.com/bgX3VVpd/download-4.jpg",
+    "hashtag": ["dragonballz", "saiyan", "action"],
+    "writer_name": "Akira Toriyama",
+    "writer_img": "https://i.ibb.co.com/hQhDQ1b/images-2.jpg",
+    "reading_time": "23",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 7,
+    "title": "Fullmetal Alchemist",
+    "bio": "Hiromu Arakawa is a celebrated manga artist, best known for Fullmetal Alchemist. Her balanced mix of action, emotion, and philosophy earned the series immense respect and critical acclaim.",
+    "manga_cover_img": "https://i.ibb.co.com/PZZ2syfY/download-5.jpg",
+    "hashtag": ["fullmetalalchemist", "alchemy", "action"],
+    "writer_name": "Hiromu Arakawa",
+    "writer_img": "https://i.ibb.co.com/q3jDYzp6/download-6.jpg",
+    "reading_time": "25",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 8,
+    "title": "Sword Art Online",
+    "bio": "Rei Kawahara, also known as Reki Kawahara, is the creator of Sword Art Online, a light novel and manga series exploring virtual reality, gaming, and psychological conflict in futuristic worlds.",
+    "manga_cover_img": "https://i.ibb.co.com/2YKq0H2p/download-7.jpg",
+    "hashtag": ["swordartonline", "virtualreality", "action"],
+    "writer_name": "Rei Kawahara",
+    "writer_img": "https://i.ibb.co.com/Q3nxhYtF/images-3.jpg",
+    "reading_time": "22",
+    "post_date": "2025-04-06"
+  },
+  {
+    "id": 9,
+    "title": "Tokyo Ghoul",
+    "bio": "Sui Ishida is a Japanese manga artist acclaimed for Tokyo Ghoul, a dark fantasy exploring identity, morality, and horror in a world where ghouls and humans struggle for survival.",
+    "manga_cover_img": "https://i.ibb.co.com/fzPD2xzN/download-8.jpg",
+    "hashtag": ["tokyoghoul", "ghoul", "horror"],
+    "writer_name": "Sui Ishida",
+    "writer_img": "https://i.ibb.co.com/DZQ5qjz/sui-ishida-991384-250-400.jpg",
+    "reading_time": "28",
+    "post_date": "2025-04-06"
+  }
+]
